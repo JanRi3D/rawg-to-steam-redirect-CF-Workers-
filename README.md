@@ -1,4 +1,4 @@
-# RAWG to Steam Redirect 💬🚂
+# RAWG to Steam Redirect (CF Workers) 💬🚂
 
 > All credit goes to [Toylerrr](https://github.com/Toylerrr) who conceived the idea and initiated this project.
 
